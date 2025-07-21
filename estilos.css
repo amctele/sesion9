@@ -4,6 +4,7 @@ header{
     padding: 20px;
     text-align: center;
     color: white;
+}
     /*estilo para la barra de navegacion*/
    nav a{
     color:black ;
@@ -40,4 +41,4 @@ header{
     margin-top: 20px;
    }
     
-}
+
